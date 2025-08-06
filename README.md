@@ -43,7 +43,6 @@ The platform is composed of:
   - Lesion classification (3D ResNet50)  
   - Lesion segmentation (3D UNet w/ CT & PET input)  
 
-![User-Workflow](diagram.jpg)
 
 ---
 
@@ -91,7 +90,6 @@ The platform is composed of:
 
  **Post-processing improved lesion segmentation by 4%** using body masking.
 
-![Lesion Segmentation Pipeline Diagram](LesionSegmentation.png)
 
 ---
 
@@ -105,6 +103,6 @@ The platform is composed of:
 
 ## 🎥 Demo
 
- [YouTube Demo Link](#https://www.youtube.com/watch?v=smcWChlwsKk&feature=youtu.be)
+ [Watch the YouTube Demo](https://www.youtube.com/watch?v=smcWChlwsKk&feature=youtu.be)
 
 ---
