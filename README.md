@@ -17,8 +17,6 @@ This project presents an **AI-powered theranostics platform** designed to suppor
 - [Results](#results)
 - [Limitations & Future Work](#limitations--future-work)
 - [Demo](#demo)
-- [Installation](#installation)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
