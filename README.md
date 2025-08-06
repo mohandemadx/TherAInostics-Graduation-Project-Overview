@@ -93,7 +93,7 @@ The platform is composed of:
 
  **Post-processing improved lesion segmentation by 4%** using body masking.
 
-![Pipeline Diagram](Lesion Segmentation.png)
+![Pipeline Diagram](Lesion-Segmentation.png)
 
 ---
 
@@ -107,8 +107,7 @@ The platform is composed of:
 
 ## 🎥 Demo
 
- [YouTube Demo Link](#)  
- [Live Demo Link or Web App (if hosted)](#)
+ [YouTube Demo Link](#https://www.youtube.com/watch?v=smcWChlwsKk&feature=youtu.be)
 
 ---
 
