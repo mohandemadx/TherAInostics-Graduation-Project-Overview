@@ -93,7 +93,7 @@ The platform is composed of:
 
  **Post-processing improved lesion segmentation by 4%** using body masking.
 
-![Pipeline Diagram](Lesion-Segmentation.png)
+![Lesion Segmentation Pipeline Diagram](LesionSegmentation.png)
 
 ---
 
@@ -110,13 +110,3 @@ The platform is composed of:
  [YouTube Demo Link](#https://www.youtube.com/watch?v=smcWChlwsKk&feature=youtu.be)
 
 ---
-
-##  Installation
-
->  Requirements: Python 3.8+, PyTorch, Flask, OHIF, Docker
-
-```bash
-git clone https://github.com/yourusername/theranostics-ai-platform.git
-cd theranostics-ai-platform
-pip install -r requirements.txt
-python run.py
