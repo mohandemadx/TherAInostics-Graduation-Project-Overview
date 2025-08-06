@@ -3,7 +3,8 @@
 This project presents an **AI-powered theranostics platform** designed to support physicians in evaluating treatment efficacy in **metastatic prostate cancer (mPC)** patients using **Lu-PSMA PET/CT scans**.
 
 > Developed by: Muhammed ElNajjar, Omar Shata, Abduallah Omran, Mohand Attya, Carole Bekhit
-> Under Supervision of: Dr. Ahmed Ehab and Dr. Manar Nasser 
+>
+>  Under Supervision of: Dr. Ahmed Ehab and Dr. Manar Nasser 
 > Faculty of Engineering, Cairo University – Department of Systems and Biomedical Engineering
 
 ---
