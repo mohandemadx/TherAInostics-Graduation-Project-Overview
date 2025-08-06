@@ -44,7 +44,7 @@ The platform is composed of:
   - Lesion classification (3D ResNet50)  
   - Lesion segmentation (3D UNet w/ CT & PET input)  
 
-![Architecture](./images/system_architecture.png)
+![Architecture](diagram.jpg)
 
 ---
 
@@ -92,7 +92,7 @@ The platform is composed of:
 
  **Post-processing improved lesion segmentation by 4%** using body masking.
 
-![Confusion Matrix](./images/confusion_matrix.png)
+![Pipeline Diagram](./Lesion_Segmentation.png)
 
 ---
 
